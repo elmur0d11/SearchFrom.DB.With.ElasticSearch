@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JbiX95uD84n72Xsowh7kYvR4VNldCD0l8jY/QRHW0JM=",
+  "Source": "DotnetELK",
+  "BasePath": "_content/DotnetELK",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
